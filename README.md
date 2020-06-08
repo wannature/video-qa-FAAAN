@@ -1,4 +1,4 @@
-# vqa-mcb-model-tensorflow
+# video-qa-FAAAN
 
 This is an implementation of [Frame Augmented Alternating Attention Network for Video Question Answering] with Tensorflow. 
 
