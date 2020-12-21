@@ -14,7 +14,7 @@ Models and Train & Test codes(Tensorflow is used)
 - config.py : configuration file 
 - faster_rcnn: extract the spatial regions for question to region attention.
 - model
-  - faa.py : a faa model which do not have attention mapping
+  - faa.py : a faa model which needs pre-extracted faster rcnn features.
   - run_faa.py : a code for training and testing.
 
 
